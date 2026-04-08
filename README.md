@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Technology used: 
 
-HTML, CSS
+HTML, CSS, JS
 
 ### Resources:
 
