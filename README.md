@@ -1,12 +1,8 @@
-# Frontend Mentor - Base Apparel coming soon page
+# Base Apparel coming soon page
 
-Link: https://coming-soon-landing-page.netlify.app/
+Live link: https://coming-soon-landing-page.netlify.app/
 
-![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
-
-## The challenge
-
-The challenge is to build out this coming soon page and get it looking as close to the design as possible.
+This landing page was built according to the specifications from a Figma design file.
 
 Users should be able to:
 
@@ -15,3 +11,13 @@ Users should be able to:
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
+
+### Technology used: 
+
+HTML, CSS
+
+### Resources:
+
+Figma file obtained from the Frontend Mentor website: https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0
